@@ -8,20 +8,34 @@
 
 /* Begin PBXBuildFile section */
 		0F1A202C2142F40C00258766 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F1A202B2142F40C00258766 /* AppDelegate.swift */; };
-		0F1A202E2142F40C00258766 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F1A202D2142F40C00258766 /* ViewController.swift */; };
 		0F1A20312142F40C00258766 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0F1A202F2142F40C00258766 /* Main.storyboard */; };
 		0F1A20332142F41100258766 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0F1A20322142F41100258766 /* Assets.xcassets */; };
 		0F1A20362142F41100258766 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0F1A20342142F41100258766 /* LaunchScreen.storyboard */; };
+		0FA0902C2142FAEE0076F740 /* CustomColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0FA0902B2142FAEE0076F740 /* CustomColor.swift */; };
+		0FA0902F2142FDC80076F740 /* LoginSignUpViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0FA0902E2142FDC80076F740 /* LoginSignUpViewController.swift */; };
+		0FA0903121430F750076F740 /* CustomButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0FA0903021430F750076F740 /* CustomButton.swift */; };
+		0FA09033214316F70076F740 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0FA09032214316F70076F740 /* LoginViewController.swift */; };
+		0FA0903521431F280076F740 /* CustomTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0FA0903421431F280076F740 /* CustomTextField.swift */; };
+		0FA09037214321730076F740 /* SignUpViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0FA09036214321730076F740 /* SignUpViewController.swift */; };
+		5424F042FCEE5339552C99AC /* Pods_My_Flavour.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CD2BD651A1B6E8C4475B1ACF /* Pods_My_Flavour.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		0F1A20282142F40C00258766 /* My-Flavour.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "My-Flavour.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0F1A202B2142F40C00258766 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		0F1A202D2142F40C00258766 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		0F1A20302142F40C00258766 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		0F1A20322142F41100258766 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0F1A20352142F41100258766 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0F1A20372142F41100258766 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0FA0902B2142FAEE0076F740 /* CustomColor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomColor.swift; sourceTree = "<group>"; };
+		0FA0902E2142FDC80076F740 /* LoginSignUpViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginSignUpViewController.swift; sourceTree = "<group>"; };
+		0FA0903021430F750076F740 /* CustomButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomButton.swift; sourceTree = "<group>"; };
+		0FA09032214316F70076F740 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
+		0FA0903421431F280076F740 /* CustomTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTextField.swift; sourceTree = "<group>"; };
+		0FA09036214321730076F740 /* SignUpViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpViewController.swift; sourceTree = "<group>"; };
+		2A285CB68CA4AC64240C7D9B /* Pods-My-Flavour.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-My-Flavour.debug.xcconfig"; path = "Pods/Target Support Files/Pods-My-Flavour/Pods-My-Flavour.debug.xcconfig"; sourceTree = "<group>"; };
+		BE50697FFC5BA2165C46DFBA /* Pods-My-Flavour.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-My-Flavour.release.xcconfig"; path = "Pods/Target Support Files/Pods-My-Flavour/Pods-My-Flavour.release.xcconfig"; sourceTree = "<group>"; };
+		CD2BD651A1B6E8C4475B1ACF /* Pods_My_Flavour.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_My_Flavour.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -29,6 +43,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5424F042FCEE5339552C99AC /* Pods_My_Flavour.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -40,6 +55,8 @@
 			children = (
 				0F1A202A2142F40C00258766 /* My-Flavour */,
 				0F1A20292142F40C00258766 /* Products */,
+				91E5D72D00C291C91FF339E2 /* Pods */,
+				3A5E6F214FA16E76A1124665 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -54,14 +71,52 @@
 		0F1A202A2142F40C00258766 /* My-Flavour */ = {
 			isa = PBXGroup;
 			children = (
+				0FA0902D2142FDA70076F740 /* ViewController */,
+				0FA0902A2142FAD70076F740 /* CustomColor */,
 				0F1A202B2142F40C00258766 /* AppDelegate.swift */,
-				0F1A202D2142F40C00258766 /* ViewController.swift */,
 				0F1A202F2142F40C00258766 /* Main.storyboard */,
 				0F1A20322142F41100258766 /* Assets.xcassets */,
 				0F1A20342142F41100258766 /* LaunchScreen.storyboard */,
 				0F1A20372142F41100258766 /* Info.plist */,
 			);
 			path = "My-Flavour";
+			sourceTree = "<group>";
+		};
+		0FA0902A2142FAD70076F740 /* CustomColor */ = {
+			isa = PBXGroup;
+			children = (
+				0FA0902B2142FAEE0076F740 /* CustomColor.swift */,
+				0FA0903021430F750076F740 /* CustomButton.swift */,
+				0FA0903421431F280076F740 /* CustomTextField.swift */,
+			);
+			path = CustomColor;
+			sourceTree = "<group>";
+		};
+		0FA0902D2142FDA70076F740 /* ViewController */ = {
+			isa = PBXGroup;
+			children = (
+				0FA0902E2142FDC80076F740 /* LoginSignUpViewController.swift */,
+				0FA09032214316F70076F740 /* LoginViewController.swift */,
+				0FA09036214321730076F740 /* SignUpViewController.swift */,
+			);
+			path = ViewController;
+			sourceTree = "<group>";
+		};
+		3A5E6F214FA16E76A1124665 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				CD2BD651A1B6E8C4475B1ACF /* Pods_My_Flavour.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		91E5D72D00C291C91FF339E2 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				2A285CB68CA4AC64240C7D9B /* Pods-My-Flavour.debug.xcconfig */,
+				BE50697FFC5BA2165C46DFBA /* Pods-My-Flavour.release.xcconfig */,
+			);
+			name = Pods;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -71,9 +126,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 0F1A203A2142F41100258766 /* Build configuration list for PBXNativeTarget "My-Flavour" */;
 			buildPhases = (
+				2E19BD91AB2C5CE5A73254B4 /* [CP] Check Pods Manifest.lock */,
 				0F1A20242142F40C00258766 /* Sources */,
 				0F1A20252142F40C00258766 /* Frameworks */,
 				0F1A20262142F40C00258766 /* Resources */,
+				37FDF77DA55EC566C294E82D /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -130,13 +187,57 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		2E19BD91AB2C5CE5A73254B4 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-My-Flavour-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		37FDF77DA55EC566C294E82D /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-My-Flavour/Pods-My-Flavour-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/ChameleonFramework/ChameleonFramework.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/ChameleonFramework.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-My-Flavour/Pods-My-Flavour-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		0F1A20242142F40C00258766 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0F1A202E2142F40C00258766 /* ViewController.swift in Sources */,
+				0FA0903121430F750076F740 /* CustomButton.swift in Sources */,
+				0FA09037214321730076F740 /* SignUpViewController.swift in Sources */,
 				0F1A202C2142F40C00258766 /* AppDelegate.swift in Sources */,
+				0FA0903521431F280076F740 /* CustomTextField.swift in Sources */,
+				0FA0902F2142FDC80076F740 /* LoginSignUpViewController.swift in Sources */,
+				0FA09033214316F70076F740 /* LoginViewController.swift in Sources */,
+				0FA0902C2142FAEE0076F740 /* CustomColor.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -278,6 +379,7 @@
 		};
 		0F1A203B2142F41100258766 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 2A285CB68CA4AC64240C7D9B /* Pods-My-Flavour.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
@@ -296,6 +398,7 @@
 		};
 		0F1A203C2142F41100258766 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = BE50697FFC5BA2165C46DFBA /* Pods-My-Flavour.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
