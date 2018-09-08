@@ -1,0 +1,48 @@
+
+/* Class = "UILabel"; text = "Forgot Password?"; ObjectID = "LeP-ho-nTD"; */
+"LeP-ho-nTD.text" = "Forgot Password?";
+
+/* Class = "UIButton"; normalTitle = "LOG IN"; ObjectID = "MF0-Wv-CZh"; */
+"MF0-Wv-CZh.normalTitle" = "LOG IN";
+
+/* Class = "UIButton"; normalTitle = "LOG IN"; ObjectID = "NWU-SY-4uh"; */
+"NWU-SY-4uh.normalTitle" = "LOG IN";
+
+/* Class = "UITextField"; placeholder = "Enter Your Email"; ObjectID = "QKz-Mc-nPw"; */
+"QKz-Mc-nPw.placeholder" = "Enter Your Email";
+
+/* Class = "UIButton"; normalTitle = "SIGN UP"; ObjectID = "YFr-il-UvG"; */
+"YFr-il-UvG.normalTitle" = "SIGN UP";
+
+/* Class = "UITextField"; placeholder = "Enter Your Name"; ObjectID = "ZOO-YL-sON"; */
+"ZOO-YL-sON.placeholder" = "Enter Your Name";
+
+/* Class = "UITextField"; placeholder = "Enter Your Password"; ObjectID = "dRF-PV-Srf"; */
+"dRF-PV-Srf.placeholder" = "Enter Your Password";
+
+/* Class = "UILabel"; text = "My-Flavour"; ObjectID = "dYr-NN-HRb"; */
+"dYr-NN-HRb.text" = "My-Flavour";
+
+/* Class = "UILabel"; text = "Swagat Hai Aapka!"; ObjectID = "ejx-Tr-qQg"; */
+"ejx-Tr-qQg.text" = "Swagat Hai Aapka!";
+
+/* Class = "UILabel"; text = "LOG IN"; ObjectID = "f21-TQ-nZh"; */
+"f21-TQ-nZh.text" = "LOG IN";
+
+/* Class = "UILabel"; text = "Don't have an account?"; ObjectID = "hp6-d0-o93"; */
+"hp6-d0-o93.text" = "Don't have an account?";
+
+/* Class = "UILabel"; text = "SIGN UP"; ObjectID = "kB6-4d-LM3"; */
+"kB6-4d-LM3.text" = "SIGN UP";
+
+/* Class = "UITextField"; placeholder = "Enter Your Email"; ObjectID = "mp4-zh-dbM"; */
+"mp4-zh-dbM.placeholder" = "Enter Your Email";
+
+/* Class = "UIButton"; normalTitle = "SIGN UP"; ObjectID = "oJ7-yQ-cum"; */
+"oJ7-yQ-cum.normalTitle" = "SIGN UP";
+
+/* Class = "UITextField"; placeholder = "Enter Your Password"; ObjectID = "sch-iw-e7b"; */
+"sch-iw-e7b.placeholder" = "Enter Your Password";
+
+/* Class = "UILabel"; text = "Namaskar"; ObjectID = "zHg-0a-8dg"; */
+"zHg-0a-8dg.text" = "Namaskar";

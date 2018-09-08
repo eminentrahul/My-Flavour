@@ -17,6 +17,17 @@
 		0FA09033214316F70076F740 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0FA09032214316F70076F740 /* LoginViewController.swift */; };
 		0FA0903521431F280076F740 /* CustomTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0FA0903421431F280076F740 /* CustomTextField.swift */; };
 		0FA09037214321730076F740 /* SignUpViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0FA09036214321730076F740 /* SignUpViewController.swift */; };
+		0FA09039214381AE0076F740 /* CustomNavigationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0FA09038214381AE0076F740 /* CustomNavigationController.swift */; };
+		0FA0903B21439C550076F740 /* HomeTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0FA0903A21439C550076F740 /* HomeTableViewController.swift */; };
+		0FA0903D21439C650076F740 /* RecipeTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0FA0903C21439C650076F740 /* RecipeTableViewController.swift */; };
+		0FA0903F21439C990076F740 /* FavouriteTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0FA0903E21439C990076F740 /* FavouriteTableViewController.swift */; };
+		0FA0904121439CAD0076F740 /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0FA0904021439CAD0076F740 /* ProfileViewController.swift */; };
+		0FA090442143A0000076F740 /* BigPicture.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0FA090422143A0000076F740 /* BigPicture.storyboard */; };
+		0FA090482143A4750076F740 /* TabBarMenu.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0FA090452143A04A0076F740 /* TabBarMenu.storyboard */; };
+		0FA0904A2143A80B0076F740 /* Home.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0FA090492143A80B0076F740 /* Home.storyboard */; };
+		0FA0904C2143A89F0076F740 /* Recipe.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0FA0904B2143A89E0076F740 /* Recipe.storyboard */; };
+		0FA0904E2143A9460076F740 /* Favourite.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0FA0904D2143A9460076F740 /* Favourite.storyboard */; };
+		0FA090502143A98F0076F740 /* Profile.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0FA0904F2143A98F0076F740 /* Profile.storyboard */; };
 		5424F042FCEE5339552C99AC /* Pods_My_Flavour.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CD2BD651A1B6E8C4475B1ACF /* Pods_My_Flavour.framework */; };
 /* End PBXBuildFile section */
 
@@ -33,6 +44,18 @@
 		0FA09032214316F70076F740 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		0FA0903421431F280076F740 /* CustomTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTextField.swift; sourceTree = "<group>"; };
 		0FA09036214321730076F740 /* SignUpViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpViewController.swift; sourceTree = "<group>"; };
+		0FA09038214381AE0076F740 /* CustomNavigationController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomNavigationController.swift; sourceTree = "<group>"; };
+		0FA0903A21439C550076F740 /* HomeTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeTableViewController.swift; sourceTree = "<group>"; };
+		0FA0903C21439C650076F740 /* RecipeTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeTableViewController.swift; sourceTree = "<group>"; };
+		0FA0903E21439C990076F740 /* FavouriteTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavouriteTableViewController.swift; sourceTree = "<group>"; };
+		0FA0904021439CAD0076F740 /* ProfileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileViewController.swift; sourceTree = "<group>"; };
+		0FA090432143A0000076F740 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/BigPicture.storyboard; sourceTree = "<group>"; };
+		0FA090452143A04A0076F740 /* TabBarMenu.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = TabBarMenu.storyboard; path = "/Users/RRP/Desktop/My-Flavour/My-Flavour/My-Flavour/TabBarMenu.storyboard"; sourceTree = "<absolute>"; };
+		0FA090472143A3FF0076F740 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Main.strings; sourceTree = "<group>"; };
+		0FA090492143A80B0076F740 /* Home.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Home.storyboard; sourceTree = "<group>"; };
+		0FA0904B2143A89E0076F740 /* Recipe.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Recipe.storyboard; sourceTree = "<group>"; };
+		0FA0904D2143A9460076F740 /* Favourite.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Favourite.storyboard; sourceTree = "<group>"; };
+		0FA0904F2143A98F0076F740 /* Profile.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Profile.storyboard; sourceTree = "<group>"; };
 		2A285CB68CA4AC64240C7D9B /* Pods-My-Flavour.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-My-Flavour.debug.xcconfig"; path = "Pods/Target Support Files/Pods-My-Flavour/Pods-My-Flavour.debug.xcconfig"; sourceTree = "<group>"; };
 		BE50697FFC5BA2165C46DFBA /* Pods-My-Flavour.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-My-Flavour.release.xcconfig"; path = "Pods/Target Support Files/Pods-My-Flavour/Pods-My-Flavour.release.xcconfig"; sourceTree = "<group>"; };
 		CD2BD651A1B6E8C4475B1ACF /* Pods_My_Flavour.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_My_Flavour.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -71,13 +94,17 @@
 		0F1A202A2142F40C00258766 /* My-Flavour */ = {
 			isa = PBXGroup;
 			children = (
-				0FA0902D2142FDA70076F740 /* ViewController */,
+				0FA0902D2142FDA70076F740 /* MAIN */,
+				0FA090512143A9EA0076F740 /* HOME */,
+				0FA090522143A9F20076F740 /* RECIPE */,
+				0FA090532143AA020076F740 /* FAVOURITE */,
+				0FA090542143AA0F0076F740 /* PROFILE */,
 				0FA0902A2142FAD70076F740 /* CustomColor */,
 				0F1A202B2142F40C00258766 /* AppDelegate.swift */,
-				0F1A202F2142F40C00258766 /* Main.storyboard */,
 				0F1A20322142F41100258766 /* Assets.xcassets */,
 				0F1A20342142F41100258766 /* LaunchScreen.storyboard */,
 				0F1A20372142F41100258766 /* Info.plist */,
+				0FA090422143A0000076F740 /* BigPicture.storyboard */,
 			);
 			path = "My-Flavour";
 			sourceTree = "<group>";
@@ -88,18 +115,57 @@
 				0FA0902B2142FAEE0076F740 /* CustomColor.swift */,
 				0FA0903021430F750076F740 /* CustomButton.swift */,
 				0FA0903421431F280076F740 /* CustomTextField.swift */,
+				0FA09038214381AE0076F740 /* CustomNavigationController.swift */,
 			);
 			path = CustomColor;
 			sourceTree = "<group>";
 		};
-		0FA0902D2142FDA70076F740 /* ViewController */ = {
+		0FA0902D2142FDA70076F740 /* MAIN */ = {
 			isa = PBXGroup;
 			children = (
 				0FA0902E2142FDC80076F740 /* LoginSignUpViewController.swift */,
 				0FA09032214316F70076F740 /* LoginViewController.swift */,
 				0FA09036214321730076F740 /* SignUpViewController.swift */,
+				0F1A202F2142F40C00258766 /* Main.storyboard */,
+				0FA090452143A04A0076F740 /* TabBarMenu.storyboard */,
 			);
-			path = ViewController;
+			path = MAIN;
+			sourceTree = "<group>";
+		};
+		0FA090512143A9EA0076F740 /* HOME */ = {
+			isa = PBXGroup;
+			children = (
+				0FA0903A21439C550076F740 /* HomeTableViewController.swift */,
+				0FA090492143A80B0076F740 /* Home.storyboard */,
+			);
+			path = HOME;
+			sourceTree = "<group>";
+		};
+		0FA090522143A9F20076F740 /* RECIPE */ = {
+			isa = PBXGroup;
+			children = (
+				0FA0903C21439C650076F740 /* RecipeTableViewController.swift */,
+				0FA0904B2143A89E0076F740 /* Recipe.storyboard */,
+			);
+			path = RECIPE;
+			sourceTree = "<group>";
+		};
+		0FA090532143AA020076F740 /* FAVOURITE */ = {
+			isa = PBXGroup;
+			children = (
+				0FA0903E21439C990076F740 /* FavouriteTableViewController.swift */,
+				0FA0904D2143A9460076F740 /* Favourite.storyboard */,
+			);
+			path = FAVOURITE;
+			sourceTree = "<group>";
+		};
+		0FA090542143AA0F0076F740 /* PROFILE */ = {
+			isa = PBXGroup;
+			children = (
+				0FA0904021439CAD0076F740 /* ProfileViewController.swift */,
+				0FA0904F2143A98F0076F740 /* Profile.storyboard */,
+			);
+			path = PROFILE;
 			sourceTree = "<group>";
 		};
 		3A5E6F214FA16E76A1124665 /* Frameworks */ = {
@@ -179,8 +245,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0FA0904E2143A9460076F740 /* Favourite.storyboard in Resources */,
 				0F1A20362142F41100258766 /* LaunchScreen.storyboard in Resources */,
 				0F1A20332142F41100258766 /* Assets.xcassets in Resources */,
+				0FA0904C2143A89F0076F740 /* Recipe.storyboard in Resources */,
+				0FA090482143A4750076F740 /* TabBarMenu.storyboard in Resources */,
+				0FA0904A2143A80B0076F740 /* Home.storyboard in Resources */,
+				0FA090502143A98F0076F740 /* Profile.storyboard in Resources */,
+				0FA090442143A0000076F740 /* BigPicture.storyboard in Resources */,
 				0F1A20312142F40C00258766 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -232,12 +304,17 @@
 			buildActionMask = 2147483647;
 			files = (
 				0FA0903121430F750076F740 /* CustomButton.swift in Sources */,
+				0FA0903F21439C990076F740 /* FavouriteTableViewController.swift in Sources */,
 				0FA09037214321730076F740 /* SignUpViewController.swift in Sources */,
 				0F1A202C2142F40C00258766 /* AppDelegate.swift in Sources */,
 				0FA0903521431F280076F740 /* CustomTextField.swift in Sources */,
+				0FA09039214381AE0076F740 /* CustomNavigationController.swift in Sources */,
+				0FA0904121439CAD0076F740 /* ProfileViewController.swift in Sources */,
 				0FA0902F2142FDC80076F740 /* LoginSignUpViewController.swift in Sources */,
+				0FA0903B21439C550076F740 /* HomeTableViewController.swift in Sources */,
 				0FA09033214316F70076F740 /* LoginViewController.swift in Sources */,
 				0FA0902C2142FAEE0076F740 /* CustomColor.swift in Sources */,
+				0FA0903D21439C650076F740 /* RecipeTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -248,6 +325,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				0F1A20302142F40C00258766 /* Base */,
+				0FA090472143A3FF0076F740 /* en */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
@@ -258,6 +336,14 @@
 				0F1A20352142F41100258766 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		0FA090422143A0000076F740 /* BigPicture.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				0FA090432143A0000076F740 /* Base */,
+			);
+			name = BigPicture.storyboard;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */

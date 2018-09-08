@@ -16,7 +16,19 @@ class LoginViewController: UIViewController {
 	
     override func viewDidLoad() {
         super.viewDidLoad()
+		setUpProperties()
 
     }
+	
+	func setUpProperties() {
+		navigationController?.navigationBar.layer.frame.origin.y = 22
+	}
+	
+	override var prefersStatusBarHidden: Bool {
+		return true
+	}
 
+	@IBAction func backButtonTapped(_ sender: Any) {
+		navigationController?.popViewController(animated: true)
+	}
 }
